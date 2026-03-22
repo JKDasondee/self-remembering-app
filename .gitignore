@@ -127,3 +127,6 @@ dist/
 build/
 app2.spec
 SelfRemembering.spec
+gcal_token.json
+.mindapp/
+*.lock
